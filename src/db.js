@@ -2,32 +2,34 @@ export const links = [
   {
     name: "Mostaql",
     url: "https://mostaql.com/u/mhamed_mubarak",
-    description: "My personal portfolio showcasing my projects and skills.",
+    description:
+      "My profile on Mostaql, showcasing my freelance projects and skills.",
   },
   {
     name: "Gmail",
     url: "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox",
-    description: "My personal portfolio showcasing my projects and skills.",
+    description: "Access my Gmail inbox for email communication.",
   },
   {
-    name: "evaluation performance",
+    name: "Evaluation Performance",
     url: "https://pagespeed.web.dev/analysis/https-portofolio-navy-nine-vercel-app/trdo25m93n?form_factor=desktop",
-    description: "My personal portfolio showcasing my projects and skills.",
+    description:
+      "Performance evaluation of my portfolio website using Google PageSpeed Insights.",
   },
   {
-    name: "Up Work",
+    name: "UpWork",
     url: "https://www.upwork.com/freelancers/~01bed9f3b1a18620cb",
-    description: "My personal portfolio showcasing my projects and skills.",
+    description: "My UpWork profile for freelance opportunities.",
   },
   {
-    name: "baeed",
+    name: "Baeed",
     url: "https://baaeed.com/u/mohamedmubarak4",
-    description: "My personal portfolio showcasing my projects and skills.",
+    description: "My profile on Baeed for freelance services.",
   },
   {
-    name: "Wuazaff",
+    name: "Wuzzuf",
     url: "https://wuzzuf.net/profile/update/general-info?l=dbp&t=es",
-    description: "My personal portfolio showcasing my projects and skills.",
+    description: "My professional profile on Wuzzuf.",
   },
   {
     name: "Portfolio",
@@ -47,6 +49,6 @@ export const links = [
   {
     name: "Instagram",
     url: "https://www.instagram.com/mohamedmubarak1_4_2000/",
-    description: "Follow me on Twitter for updates.",
+    description: "Follow me on Instagram for updates.",
   },
 ];
