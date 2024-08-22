@@ -10,6 +10,11 @@ export const links = [
     description: "My personal portfolio showcasing my projects and skills.",
   },
   {
+    name: "evaluation performance",
+    url: "https://pagespeed.web.dev/analysis/https-portofolio-navy-nine-vercel-app/trdo25m93n?form_factor=desktop",
+    description: "My personal portfolio showcasing my projects and skills.",
+  },
+  {
     name: "Up Work",
     url: "https://www.upwork.com/freelancers/~01bed9f3b1a18620cb",
     description: "My personal portfolio showcasing my projects and skills.",
